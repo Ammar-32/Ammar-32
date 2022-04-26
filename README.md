@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ammar
 #### Computer Engineering Student
-![Computer Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Computer engineering student, Currently learning embedded systems, always looking for new challenges and eager to learn. Highly skilled in programming and problem solving. Worked on many academic projects using different programming languages. I am always willing to learn about new technologies.
 
