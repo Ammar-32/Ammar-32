@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ammar
-#### Computer Engineering Student
+#### Computer Engineering Student - Ain Shams University
 
 
 Computer engineering student, Currently learning embedded systems, always looking for new challenges and eager to learn. Highly skilled in programming and problem solving. Worked on many academic projects using different programming languages. I am always willing to learn about new technologies.
